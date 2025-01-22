@@ -1,4 +1,4 @@
-package com.ch03;
+package com.ch03_04;
 
 public class AccuracyExample {
     // 산술 연산을 정확하게 계산하고 싶다면 실수 타입을 사용하지 않는 것이 좋다.

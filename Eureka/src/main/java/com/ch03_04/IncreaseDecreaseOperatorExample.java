@@ -1,4 +1,4 @@
-package com.ch03;
+package com.ch03_04;
 
 public class IncreaseDecreaseOperatorExample {
     public static void main(String[] args) {

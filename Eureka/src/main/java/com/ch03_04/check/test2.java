@@ -1,4 +1,4 @@
-package com.ch03.check;
+package com.ch03_04.check;
 
 public class test2 {
     public static void main(String[] args) {
