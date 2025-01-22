@@ -1,4 +1,4 @@
-package com.ch02.sec01;
+package com.ch02;
 
 public class VariableUseExample {
     public static void main(String[] args) {
