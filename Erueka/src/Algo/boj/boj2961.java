@@ -1,4 +1,4 @@
-package Algo.workshop;
+package Algo.boj;
 
 import java.util.Scanner;
 

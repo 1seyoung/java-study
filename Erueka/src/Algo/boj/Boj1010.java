@@ -1,4 +1,4 @@
-package Algo.workshop;
+package Algo.boj;
 
 /*
 문제 분석
