@@ -1,0 +1,15 @@
+version: '3.9'
+services:
+  db:
+    image: mysql:8.0
+    container_name: mysql-eureka-practice-db
+    environment:
+      MYSQL_DATABASE: eureka-practice-db
+      MYSQL_ROOT_PASSWORD: 1234
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql  # 볼륨 이름을 일관되게 맞춤
+
+volumes:
+  mysql_data:
